@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evg4/friendfrenzy.git/static/css/main.25322662.css",
+    "main.js": "/evg4/friendfrenzy.git/static/js/main.23d049f1.js",
+    "static/js/787.fee8238f.chunk.js": "/evg4/friendfrenzy.git/static/js/787.fee8238f.chunk.js",
+    "index.html": "/evg4/friendfrenzy.git/index.html",
+    "main.25322662.css.map": "/evg4/friendfrenzy.git/static/css/main.25322662.css.map",
+    "main.23d049f1.js.map": "/evg4/friendfrenzy.git/static/js/main.23d049f1.js.map",
+    "787.fee8238f.chunk.js.map": "/evg4/friendfrenzy.git/static/js/787.fee8238f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25322662.css",
+    "static/js/main.23d049f1.js"
+  ]
+}
