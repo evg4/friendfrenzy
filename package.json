@@ -1,7 +1,7 @@
 {
   "name": "reactappone",
   "version": "0.1.0",
-  "homepage": "https://github.com/evg4/friendfrenzy.git",
+  "homepage": "https://evg4.github.io/friendfrenzy.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
