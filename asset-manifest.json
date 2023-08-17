@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/friendfrenzy.git/static/css/main.25322662.css",
-    "main.js": "/friendfrenzy.git/static/js/main.48cb1b4f.js",
-    "static/js/787.fee8238f.chunk.js": "/friendfrenzy.git/static/js/787.fee8238f.chunk.js",
-    "index.html": "/friendfrenzy.git/index.html",
-    "main.25322662.css.map": "/friendfrenzy.git/static/css/main.25322662.css.map",
-    "main.48cb1b4f.js.map": "/friendfrenzy.git/static/js/main.48cb1b4f.js.map",
-    "787.fee8238f.chunk.js.map": "/friendfrenzy.git/static/js/787.fee8238f.chunk.js.map"
+    "main.css": "/friendfrenzy/static/css/main.25322662.css",
+    "main.js": "/friendfrenzy/static/js/main.6f9abc94.js",
+    "static/js/787.fee8238f.chunk.js": "/friendfrenzy/static/js/787.fee8238f.chunk.js",
+    "index.html": "/friendfrenzy/index.html",
+    "main.25322662.css.map": "/friendfrenzy/static/css/main.25322662.css.map",
+    "main.6f9abc94.js.map": "/friendfrenzy/static/js/main.6f9abc94.js.map",
+    "787.fee8238f.chunk.js.map": "/friendfrenzy/static/js/787.fee8238f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.25322662.css",
-    "static/js/main.48cb1b4f.js"
+    "static/js/main.6f9abc94.js"
   ]
 }
